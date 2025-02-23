@@ -1,4 +1,4 @@
-# REST-API-to-database
+# REST API to database
 practicing request data from REST API using pokemon API
 
 first step is get data using get methods using pokemon api url using json format
