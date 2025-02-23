@@ -1,0 +1,4300 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "id": "13",
+            "name": "razor-wind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "14",
+            "name": "swords-dance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "15",
+            "name": "cut"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "20",
+            "name": "bind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "22",
+            "name": "vine-whip"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "29",
+            "name": "headbutt"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "33",
+            "name": "tackle"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "34",
+            "name": "body-slam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "36",
+            "name": "take-down"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "38",
+            "name": "double-edge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "45",
+            "name": "growl"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "70",
+            "name": "strength"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "72",
+            "name": "mega-drain"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "73",
+            "name": "leech-seed"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "74",
+            "name": "growth"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "75",
+            "name": "razor-leaf"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "76",
+            "name": "solar-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "77",
+            "name": "poison-powder"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "79",
+            "name": "sleep-powder"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "80",
+            "name": "petal-dance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "81",
+            "name": "string-shot"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "92",
+            "name": "toxic"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "99",
+            "name": "rage"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "102",
+            "name": "mimic"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "104",
+            "name": "double-team"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "111",
+            "name": "defense-curl"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "113",
+            "name": "light-screen"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "115",
+            "name": "reflect"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "117",
+            "name": "bide"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "124",
+            "name": "sludge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "130",
+            "name": "skull-bash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "133",
+            "name": "amnesia"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "148",
+            "name": "flash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "156",
+            "name": "rest"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "164",
+            "name": "substitute"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "173",
+            "name": "snore"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "174",
+            "name": "curse"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "182",
+            "name": "protect"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "188",
+            "name": "sludge-bomb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "189",
+            "name": "mud-slap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "200",
+            "name": "outrage"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "202",
+            "name": "giga-drain"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "203",
+            "name": "endure"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "204",
+            "name": "charm"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "206",
+            "name": "false-swipe"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "207",
+            "name": "swagger"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "210",
+            "name": "fury-cutter"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "213",
+            "name": "attract"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "214",
+            "name": "sleep-talk"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "216",
+            "name": "return"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "218",
+            "name": "frustration"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "219",
+            "name": "safeguard"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "230",
+            "name": "sweet-scent"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "235",
+            "name": "synthesis"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "237",
+            "name": "hidden-power"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "241",
+            "name": "sunny-day"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "249",
+            "name": "rock-smash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "263",
+            "name": "facade"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "267",
+            "name": "nature-power"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "270",
+            "name": "helping-hand"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "275",
+            "name": "ingrain"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "282",
+            "name": "knock-off"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "290",
+            "name": "secret-power"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "311",
+            "name": "weather-ball"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "320",
+            "name": "grass-whistle"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "331",
+            "name": "bullet-seed"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "345",
+            "name": "magical-leaf"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "363",
+            "name": "natural-gift"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "388",
+            "name": "worry-seed"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "402",
+            "name": "seed-bomb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "412",
+            "name": "energy-ball"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "437",
+            "name": "leaf-storm"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "438",
+            "name": "power-whip"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "445",
+            "name": "captivate"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "447",
+            "name": "grass-knot"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "474",
+            "name": "venoshock"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "491",
+            "name": "acid-spray"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "496",
+            "name": "round"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "497",
+            "name": "echoed-voice"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "520",
+            "name": "grass-pledge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "526",
+            "name": "work-up"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "580",
+            "name": "grassy-terrain"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "590",
+            "name": "confide"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "803",
+            "name": "grassy-glide"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "851",
+            "name": "tera-blast"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "885",
+            "name": "trailblaze"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "46",
+            "name": "roar"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "63",
+            "name": "hyper-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "89",
+            "name": "earthquake"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "184",
+            "name": "scary-face"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "335",
+            "name": "block"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "338",
+            "name": "frenzy-plant"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "398",
+            "name": "poison-jab"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "414",
+            "name": "earth-power"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "416",
+            "name": "giga-impact"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "431",
+            "name": "rock-climb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "523",
+            "name": "bulldoze"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "572",
+            "name": "petal-blizzard"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "707",
+            "name": "stomping-tantrum"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "805",
+            "name": "terrain-pulse"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "5",
+            "name": "mega-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "7",
+            "name": "fire-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "9",
+            "name": "thunder-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "10",
+            "name": "scratch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "17",
+            "name": "wing-attack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "25",
+            "name": "mega-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "43",
+            "name": "leer"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "44",
+            "name": "bite"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "52",
+            "name": "ember"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "53",
+            "name": "flamethrower"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "66",
+            "name": "submission"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "68",
+            "name": "counter"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "69",
+            "name": "seismic-toss"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "82",
+            "name": "dragon-rage"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "83",
+            "name": "fire-spin"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "91",
+            "name": "dig"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "108",
+            "name": "smokescreen"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "126",
+            "name": "fire-blast"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "129",
+            "name": "swift"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "154",
+            "name": "fury-swipes"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "157",
+            "name": "rock-slide"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "163",
+            "name": "slash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "187",
+            "name": "belly-drum"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "223",
+            "name": "dynamic-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "225",
+            "name": "dragon-breath"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "231",
+            "name": "iron-tail"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "232",
+            "name": "metal-claw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "242",
+            "name": "crunch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "246",
+            "name": "ancient-power"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "251",
+            "name": "beat-up"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "257",
+            "name": "heat-wave"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "261",
+            "name": "will-o-wisp"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "264",
+            "name": "focus-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "280",
+            "name": "brick-break"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "314",
+            "name": "air-cutter"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "315",
+            "name": "overheat"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "317",
+            "name": "rock-tomb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "332",
+            "name": "aerial-ace"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "337",
+            "name": "dragon-claw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "349",
+            "name": "dragon-dance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "374",
+            "name": "fling"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "394",
+            "name": "flare-blitz"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "406",
+            "name": "dragon-pulse"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "407",
+            "name": "dragon-rush"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "411",
+            "name": "focus-blast"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "421",
+            "name": "shadow-claw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "424",
+            "name": "fire-fang"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "468",
+            "name": "hone-claws"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "481",
+            "name": "flame-burst"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "488",
+            "name": "flame-charge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "510",
+            "name": "incinerate"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "512",
+            "name": "acrobatics"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "517",
+            "name": "inferno"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "519",
+            "name": "fire-pledge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "525",
+            "name": "dragon-tail"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "612",
+            "name": "power-up-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "784",
+            "name": "breaking-swipe"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "915",
+            "name": "temper-flare"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "19",
+            "name": "fly"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "90",
+            "name": "fissure"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "201",
+            "name": "sandstorm"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "211",
+            "name": "steel-wing"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "239",
+            "name": "twister"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "299",
+            "name": "blaze-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "307",
+            "name": "blast-burn"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "355",
+            "name": "roost"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "366",
+            "name": "tailwind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "403",
+            "name": "air-slash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "432",
+            "name": "defog"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "466",
+            "name": "ominous-wind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "507",
+            "name": "sky-drop"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "535",
+            "name": "heat-crash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "542",
+            "name": "hurricane"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "595",
+            "name": "mystical-fire"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "693",
+            "name": "brutal-swing"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "799",
+            "name": "scale-shot"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "814",
+            "name": "dual-wingbeat"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "815",
+            "name": "scorching-sands"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "913",
+            "name": "dragon-cheer"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "8",
+            "name": "ice-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "39",
+            "name": "tail-whip"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "54",
+            "name": "mist"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "55",
+            "name": "water-gun"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "56",
+            "name": "hydro-pump"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "57",
+            "name": "surf"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "58",
+            "name": "ice-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "59",
+            "name": "blizzard"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "61",
+            "name": "bubble-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "93",
+            "name": "confusion"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "110",
+            "name": "withdraw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "114",
+            "name": "haze"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "127",
+            "name": "waterfall"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "145",
+            "name": "bubble"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "175",
+            "name": "flail"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "193",
+            "name": "foresight"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "196",
+            "name": "icy-wind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "205",
+            "name": "rollout"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "229",
+            "name": "rapid-spin"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "240",
+            "name": "rain-dance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "243",
+            "name": "mirror-coat"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "250",
+            "name": "whirlpool"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "252",
+            "name": "fake-out"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "258",
+            "name": "hail"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "266",
+            "name": "follow-me"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "281",
+            "name": "yawn"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "287",
+            "name": "refresh"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "291",
+            "name": "dive"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "300",
+            "name": "mud-sport"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "323",
+            "name": "water-spout"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "330",
+            "name": "muddy-water"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "334",
+            "name": "iron-defense"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "341",
+            "name": "mud-shot"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "352",
+            "name": "water-pulse"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "360",
+            "name": "gyro-ball"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "362",
+            "name": "brine"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "392",
+            "name": "aqua-ring"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "396",
+            "name": "aura-sphere"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "401",
+            "name": "aqua-tail"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "428",
+            "name": "zen-headbutt"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "453",
+            "name": "aqua-jet"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "503",
+            "name": "scald"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "504",
+            "name": "shell-smash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "518",
+            "name": "water-pledge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "710",
+            "name": "liquidation"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "791",
+            "name": "life-dew"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "812",
+            "name": "flip-turn"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "834",
+            "name": "wave-crash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "861",
+            "name": "ice-spinner"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "886",
+            "name": "chilling-water"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "308",
+            "name": "hydro-cannon"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "324",
+            "name": "signal-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "399",
+            "name": "dark-pulse"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "419",
+            "name": "avalanche"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "430",
+            "name": "flash-cannon"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "479",
+            "name": "smack-down"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "776",
+            "name": "body-press"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "450",
+            "name": "bug-bite"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "527",
+            "name": "electroweb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "106",
+            "name": "harden"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "16",
+            "name": "gust"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "18",
+            "name": "whirlwind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "48",
+            "name": "supersonic"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "60",
+            "name": "psybeam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "78",
+            "name": "stun-spore"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "94",
+            "name": "psychic"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "100",
+            "name": "teleport"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "138",
+            "name": "dream-eater"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "149",
+            "name": "psywave"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "168",
+            "name": "thief"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "171",
+            "name": "nightmare"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "226",
+            "name": "baton-pass"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "244",
+            "name": "psych-up"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "247",
+            "name": "shadow-ball"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "285",
+            "name": "skill-swap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "318",
+            "name": "silver-wind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "369",
+            "name": "u-turn"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "405",
+            "name": "bug-buzz"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "476",
+            "name": "rage-powder"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "483",
+            "name": "quiver-dance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "522",
+            "name": "struggle-bug"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "577",
+            "name": "draining-kiss"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "611",
+            "name": "infestation"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "676",
+            "name": "pollen-puff"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "40",
+            "name": "poison-sting"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "31",
+            "name": "fury-attack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "41",
+            "name": "twineedle"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "42",
+            "name": "pin-missile"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "64",
+            "name": "peck"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "97",
+            "name": "agility"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "116",
+            "name": "focus-energy"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "228",
+            "name": "pursuit"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "283",
+            "name": "endeavor"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "371",
+            "name": "payback"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "372",
+            "name": "assurance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "390",
+            "name": "toxic-spikes"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "404",
+            "name": "x-scissor"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "529",
+            "name": "drill-run"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "565",
+            "name": "fell-stinger"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "673",
+            "name": "laser-focus"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "675",
+            "name": "throat-chop"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "28",
+            "name": "sand-attack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "98",
+            "name": "quick-attack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "119",
+            "name": "mirror-move"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "143",
+            "name": "sky-attack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "185",
+            "name": "feint-attack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "197",
+            "name": "detect"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "253",
+            "name": "uproar"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "297",
+            "name": "feather-dance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "365",
+            "name": "pluck"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "413",
+            "name": "brave-bird"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "85",
+            "name": "thunderbolt"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "86",
+            "name": "thunder-wave"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "87",
+            "name": "thunder"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "103",
+            "name": "screech"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "158",
+            "name": "hyper-fang"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "162",
+            "name": "super-fang"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "172",
+            "name": "flame-wheel"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "179",
+            "name": "reversal"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "269",
+            "name": "taunt"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "279",
+            "name": "revenge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "343",
+            "name": "covet"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "351",
+            "name": "shock-wave"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "382",
+            "name": "me-first"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "387",
+            "name": "last-resort"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "389",
+            "name": "sucker-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "451",
+            "name": "charge-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "514",
+            "name": "retaliate"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "515",
+            "name": "final-gambit"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "528",
+            "name": "wild-charge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "65",
+            "name": "drill-peck"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "161",
+            "name": "tri-attack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "310",
+            "name": "astonish"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "21",
+            "name": "slam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "35",
+            "name": "wrap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "50",
+            "name": "disable"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "51",
+            "name": "acid"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "137",
+            "name": "glare"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "141",
+            "name": "leech-life"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "180",
+            "name": "spite"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "254",
+            "name": "stockpile"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "255",
+            "name": "spit-up"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "256",
+            "name": "swallow"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "259",
+            "name": "torment"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "289",
+            "name": "snatch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "305",
+            "name": "poison-fang"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "342",
+            "name": "poison-tail"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "380",
+            "name": "gastro-acid"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "415",
+            "name": "switcheroo"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "426",
+            "name": "mud-bomb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "441",
+            "name": "gunk-shot"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "482",
+            "name": "sludge-wave"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "489",
+            "name": "coil"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "555",
+            "name": "snarl"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "562",
+            "name": "belch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "706",
+            "name": "psychic-fangs"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "806",
+            "name": "skitter-smack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "808",
+            "name": "lash-out"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "220",
+            "name": "pain-split"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "422",
+            "name": "thunder-fang"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "423",
+            "name": "ice-fang"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "6",
+            "name": "pay-day"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "24",
+            "name": "double-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "84",
+            "name": "thunder-shock"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "186",
+            "name": "sweet-kiss"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "192",
+            "name": "zap-cannon"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "209",
+            "name": "spark"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "227",
+            "name": "encore"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "268",
+            "name": "charge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "313",
+            "name": "fake-tears"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "344",
+            "name": "volt-tackle"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "347",
+            "name": "calm-mind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "364",
+            "name": "feint"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "393",
+            "name": "magnet-rise"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "417",
+            "name": "nasty-plot"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "435",
+            "name": "discharge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "486",
+            "name": "electro-ball"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "521",
+            "name": "volt-switch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "574",
+            "name": "disarming-voice"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "583",
+            "name": "play-rough"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "589",
+            "name": "play-nice"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "598",
+            "name": "eerie-impulse"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "604",
+            "name": "electric-terrain"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "609",
+            "name": "nuzzle"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "804",
+            "name": "rising-voltage"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "914",
+            "name": "alluring-voice"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "918",
+            "name": "upper-hand"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "683",
+            "name": "speed-swap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "67",
+            "name": "low-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "191",
+            "name": "spikes"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "222",
+            "name": "magnitude"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "306",
+            "name": "crush-claw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "328",
+            "name": "sand-tomb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "400",
+            "name": "night-slash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "444",
+            "name": "stone-edge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "446",
+            "name": "stealth-rock"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "498",
+            "name": "chip-away"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "563",
+            "name": "rototiller"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "667",
+            "name": "high-horsepower"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "798",
+            "name": "steel-roller"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "260",
+            "name": "flatter"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "599",
+            "name": "venom-drench"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "32",
+            "name": "horn-drill"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "276",
+            "name": "superpower"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "350",
+            "name": "rock-blast"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "506",
+            "name": "hex"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "511",
+            "name": "quash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "30",
+            "name": "horn-attack"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "37",
+            "name": "thrash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "457",
+            "name": "head-smash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "684",
+            "name": "smart-strike"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "224",
+            "name": "megahorn"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "1",
+            "name": "pound"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "3",
+            "name": "double-slap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "47",
+            "name": "sing"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "101",
+            "name": "night-shade"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "107",
+            "name": "minimize"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "118",
+            "name": "metronome"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "135",
+            "name": "soft-boiled"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "150",
+            "name": "splash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "215",
+            "name": "heal-bell"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "217",
+            "name": "present"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "236",
+            "name": "moonlight"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "271",
+            "name": "trick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "272",
+            "name": "role-play"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "273",
+            "name": "wish"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "277",
+            "name": "magic-coat"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "278",
+            "name": "recycle"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "286",
+            "name": "imprison"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "304",
+            "name": "hyper-voice"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "309",
+            "name": "meteor-mash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "321",
+            "name": "tickle"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "322",
+            "name": "cosmic-power"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "340",
+            "name": "bounce"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "356",
+            "name": "gravity"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "358",
+            "name": "wake-up-slap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "361",
+            "name": "healing-wish"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "381",
+            "name": "lucky-chant"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "383",
+            "name": "copycat"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "409",
+            "name": "drain-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "472",
+            "name": "wonder-room"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "473",
+            "name": "psyshock"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "477",
+            "name": "telekinesis"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "495",
+            "name": "after-you"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "500",
+            "name": "stored-power"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "502",
+            "name": "ally-switch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "505",
+            "name": "heal-pulse"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "516",
+            "name": "bestow"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "581",
+            "name": "misty-terrain"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "584",
+            "name": "fairy-wind"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "585",
+            "name": "moonblast"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "605",
+            "name": "dazzling-gleam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "608",
+            "name": "baby-doll-eyes"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "671",
+            "name": "spotlight"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "800",
+            "name": "meteor-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "802",
+            "name": "misty-explosion"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "248",
+            "name": "future-sight"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "95",
+            "name": "hypnosis"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "109",
+            "name": "confuse-ray"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "262",
+            "name": "memento"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "288",
+            "name": "grudge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "326",
+            "name": "extrasensory"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "336",
+            "name": "howl"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "384",
+            "name": "power-swap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "492",
+            "name": "foul-play"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "541",
+            "name": "tail-slap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "807",
+            "name": "burning-jealousy"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "120",
+            "name": "self-destruct"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "917",
+            "name": "psychic-noise"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "478",
+            "name": "magic-room"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "797",
+            "name": "expanding-force"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "71",
+            "name": "absorb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "212",
+            "name": "mean-look"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "440",
+            "name": "cross-poison"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "501",
+            "name": "quick-guard"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "298",
+            "name": "teeter-dance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "668",
+            "name": "strength-sap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "312",
+            "name": "aromatherapy"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "669",
+            "name": "solar-blade"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "810",
+            "name": "corrosive-gas"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "147",
+            "name": "spore"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "469",
+            "name": "wide-guard"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "234",
+            "name": "morning-sun"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "679",
+            "name": "lunge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "884",
+            "name": "pounce"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "274",
+            "name": "assist"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "316",
+            "name": "odor-sleuth"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "386",
+            "name": "punishment"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "408",
+            "name": "power-gem"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "373",
+            "name": "embargo"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "238",
+            "name": "cross-chop"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "346",
+            "name": "water-sport"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "410",
+            "name": "vacuum-wave"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "485",
+            "name": "synchronoise"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "487",
+            "name": "soak"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "490",
+            "name": "low-sweep"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "493",
+            "name": "simple-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "499",
+            "name": "clear-smog"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "2",
+            "name": "karate-chop"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "96",
+            "name": "meditate"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "265",
+            "name": "smelling-salts"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "339",
+            "name": "bulk-up"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "370",
+            "name": "close-combat"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "530",
+            "name": "dual-chop"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "681",
+            "name": "power-trip"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "889",
+            "name": "rage-fist"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "682",
+            "name": "burn-up"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "833",
+            "name": "raging-fury"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "245",
+            "name": "extreme-speed"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "442",
+            "name": "iron-head"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "170",
+            "name": "mind-reader"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "301",
+            "name": "ice-ball"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "509",
+            "name": "circle-throw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "663",
+            "name": "darkest-lariat"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "811",
+            "name": "coaching"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "112",
+            "name": "barrier"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "375",
+            "name": "psycho-shift"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "379",
+            "name": "power-trick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "385",
+            "name": "guard-swap"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "433",
+            "name": "trick-room"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "470",
+            "name": "guard-split"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "678",
+            "name": "psychic-terrain"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "105",
+            "name": "recover"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "134",
+            "name": "kinesis"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "357",
+            "name": "miracle-eye"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "427",
+            "name": "psycho-cut"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "27",
+            "name": "rolling-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "183",
+            "name": "mach-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "233",
+            "name": "vital-throw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "418",
+            "name": "bullet-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "458",
+            "name": "double-hit"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "484",
+            "name": "heavy-slam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "378",
+            "name": "wring-out"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "348",
+            "name": "leaf-blade"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "536",
+            "name": "leaf-tornado"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "62",
+            "name": "aurora-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "132",
+            "name": "constrict"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "151",
+            "name": "acid-armor"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "367",
+            "name": "acupressure"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "513",
+            "name": "reflect-type"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "88",
+            "name": "rock-throw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "153",
+            "name": "explosion"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "359",
+            "name": "hammer-arm"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "397",
+            "name": "rock-polish"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "475",
+            "name": "autotomize"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "912",
+            "name": "hard-press"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "537",
+            "name": "steamroller"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "23",
+            "name": "stomp"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "303",
+            "name": "slack-off"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "883",
+            "name": "snowscape"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "534",
+            "name": "razor-shell"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "49",
+            "name": "sonic-boom"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "199",
+            "name": "lock-on"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "319",
+            "name": "metal-sound"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "429",
+            "name": "mirror-shot"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "443",
+            "name": "magnet-bomb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "796",
+            "name": "steel-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "376",
+            "name": "trump-card"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "660",
+            "name": "first-impression"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "26",
+            "name": "jump-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "122",
+            "name": "lick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "195",
+            "name": "perish-song"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "333",
+            "name": "icicle-spear"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "420",
+            "name": "ice-shard"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "494",
+            "name": "entrainment"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "813",
+            "name": "triple-axel"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "329",
+            "name": "sheer-cold"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "524",
+            "name": "frost-breath"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "123",
+            "name": "smog"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "139",
+            "name": "poison-gas"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "325",
+            "name": "shadow-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "425",
+            "name": "shadow-sneak"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "128",
+            "name": "clamp"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "131",
+            "name": "spike-cannon"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "556",
+            "name": "icicle-crash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "194",
+            "name": "destiny-bond"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "809",
+            "name": "poltergeist"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "566",
+            "name": "phantom-force"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "471",
+            "name": "power-split"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "11",
+            "name": "vice-grip"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "12",
+            "name": "guillotine"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "152",
+            "name": "crabhammer"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "602",
+            "name": "magnetic-flux"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "916",
+            "name": "supercell-slam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "121",
+            "name": "egg-bomb"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "140",
+            "name": "barrage"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "452",
+            "name": "wood-hammer"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "125",
+            "name": "bone-club"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "155",
+            "name": "bonemerang"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "198",
+            "name": "bone-rush"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "136",
+            "name": "high-jump-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "853",
+            "name": "axe-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "4",
+            "name": "comet-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "146",
+            "name": "dizzy-punch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "327",
+            "name": "sky-uppercut"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "368",
+            "name": "metal-burst"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "190",
+            "name": "octazooka"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "293",
+            "name": "camouflage"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "142",
+            "name": "lovely-kiss"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "181",
+            "name": "powder-snow"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "531",
+            "name": "heart-stamp"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "694",
+            "name": "aurora-veil"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "436",
+            "name": "lava-plume"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "480",
+            "name": "storm-throw"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "873",
+            "name": "raging-bull"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "573",
+            "name": "freeze-dry"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "664",
+            "name": "sparkling-aria"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "144",
+            "name": "transform"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "159",
+            "name": "sharpen"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "160",
+            "name": "conversion"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "176",
+            "name": "conversion-2"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "434",
+            "name": "draco-meteor"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "540",
+            "name": "psystrike"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "284",
+            "name": "eruption"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "882",
+            "name": "tidy-up"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "169",
+            "name": "spider-web"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "564",
+            "name": "sticky-web"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "672",
+            "name": "toxic-thread"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "569",
+            "name": "ion-deluge"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "178",
+            "name": "cotton-spore"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "538",
+            "name": "cotton-guard"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "715",
+            "name": "tearful-look"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "579",
+            "name": "flower-shield"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "881",
+            "name": "chilly-reception"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "888",
+            "name": "twin-beam"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "887",
+            "name": "hyper-drill"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "839",
+            "name": "barb-barrage"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "292",
+            "name": "arm-thrust"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "894",
+            "name": "comeuppance"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "828",
+            "name": "psyshield-bash"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "166",
+            "name": "sketch"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "167",
+            "name": "triple-kick"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "208",
+            "name": "milk-drink"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "221",
+            "name": "sacred-fire"
+        }
+    },
+    {
+        "id": 1,
+        "name": {
+            "id": "177",
+            "name": "aeroblast"
+        }
+    }
+]
